@@ -1,11 +1,10 @@
 # Solution to trustpilot pony challenge 
 (Not quite finished yet)
+I'm still working on a minimap/compass showing the pony's, the exit and domokun's location in the maze.
 
 This project was bootstrapped with Create React App.
 
-The UI shows the pony and it's possible moves at it's current location.
-
-I'm still working on a minimap/compass showing the pony's, the exit and domokun's location in the maze.
+The UI shows the trapped pony it's  current location and possible move directions.
 
 # File content
 
