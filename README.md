@@ -1,4 +1,5 @@
-# Solution to trustpilot pony challenge (Not quite finished yet)
+# Solution to trustpilot pony challenge 
+(Not quite finished yet)
 
 This project was bootstrapped with Create React App.
 
