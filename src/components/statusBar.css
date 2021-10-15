@@ -1,0 +1,52 @@
+.status-bar-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+    border-bottom: 4px solid white;
+}
+
+.status-bar{
+    font-size: 1.2em;
+    color:white;
+}
+
+.status-bar-pony{
+    color: rebeccapurple;
+    font-size: 1.4em;
+}
+
+.status-bar-domokun{
+    color:black;
+    font-size: 1.4em;
+}
+
+.status-bar-exit {
+    font-size: 1.4em;
+    color:rgb(34, 187, 34);
+}
+
+@media only screen and (max-width: 700px) {
+    .status-bar {
+        font-size: 1em;
+        padding: 8px;
+    }
+  }
+
+  @media only screen and (max-width: 550px) {
+    .status-bar {
+        font-size: 0.7em;
+        padding: 12px;
+    }
+  }
+
+
+  /* Should make two lined instead of smaller */
+  @media only screen and (max-width: 420px) {
+    .status-bar {
+        font-size: 0.6em;
+        padding: 16px;
+    }
+  }
+
+  
